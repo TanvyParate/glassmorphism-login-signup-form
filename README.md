@@ -9,5 +9,5 @@ A modern, minimal and aesthetic login and sign-up form with a beautiful glassmor
 ---
 
 ## 📬 Connect with Me  
-🧠 [@TCodeStudiobyTanvy](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
+🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
 
